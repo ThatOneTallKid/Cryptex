@@ -3,8 +3,10 @@
 </div>
 
 # _**Cryptex**_  
-A command line *Crypto-currency ticker* made using golang and Wazirx Api.
+A command line *Crypto-currency ticker* made using Golang and Wazirx Api. Cryptex allows you to easily check on the price of the top cryptocurrencies in the market. Supported cryptocurrencies are Bitcoin, Ethereum, Dogecoin and many more.
+
 <br/>
+
 <div align="center">
 	<img src ="images/Screenshot.png"/>
 </div>
