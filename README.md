@@ -1,41 +1,38 @@
-	░█████╗░██████╗░██╗░░░██╗██████╗░████████╗███████╗██╗░░██╗
-	██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗╚══██╔══╝██╔════╝╚██╗██╔╝
-	██║░░╚═╝██████╔╝░╚████╔╝░██████╔╝░░░██║░░░█████╗░░░╚███╔╝░
-	██║░░██╗██╔══██╗░░╚██╔╝░░██╔═══╝░░░░██║░░░██╔══╝░░░██╔██╗░
-	╚█████╔╝██║░░██║░░░██║░░░██║░░░░░░░░██║░░░███████╗██╔╝╚██╗
-	░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░░░░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝  v1.0.0	
+<div align="center">
+	<img src ="images/pacman.gif"/>
+</div>
 
-### A command line *Crypto-currency ticker* made using golang and Wazirx Api
+# _**Cryptex**_  
+A command line *Crypto-currency ticker* made using Golang and Wazirx Api. Cryptex allows you to easily check on the price of the top cryptocurrencies in the market. Supported cryptocurrencies are Bitcoin, Ethereum, Dogecoin and many more.
 
------------------------
+<br/>
 
 <div align="center">
 	<img src ="images/Screenshot.png"/>
 </div>
 
-# Installation
+## Installation
 
 ```
-go install
+- go install
 ```
 
 ## Usage
-----------
 
 ```
- cryptex [command]
+- cryptex [command]
 ```
 
-### Available Commnads
+## Available Commnads
 
 ```
-  help        Help about any command
-  list        lists all the supported coins by this CLI
-  run         runs the cli
-  version     Version Details
+ - help        Help about any command
+ - list        lists all the supported coins by this CLI
+ - run         runs the cli
+ - version     Version Details
 ```
 
-### Example
+## Example
 
 ```
 ❯❯ ADITYA :: Cryptex :: 12:25  cryptex run btcinr
@@ -61,11 +58,9 @@ Copyright 2021, Aditya Das
 Fetched at :  04-18-2021 12:25:16
 ```
 
-
 ## License
----------------
 
-COPYRIGHT 2021 ADITYA DAS<br/>
+_Copyright 2021 [Aditya Das](https://github.com/ThatOneTallKid)_ <br/>
 Under Apache-2.0 license
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
