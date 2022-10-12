@@ -54,7 +54,7 @@ var rootCmd = &cobra.Command{
 	░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░░░░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝v1.0.0	
 	
 
-A command line Crypto-currency ticker made using golang and Wazirx Api
+A command line Crypto-currency ticker made using golang and Wazirx Api to help keep you updated.
 
 
 COPYRIGHT 2021, Aditya Das
