@@ -52,7 +52,7 @@ var listCmd = &cobra.Command{
 
 		
 		}
-		fmt.Println(Green+"List of all supported coins"+Reset)
+		fmt.Println(Green+"List of all coins that are supported"+Reset)
 		tablemaker(coins)
 	},
 }
