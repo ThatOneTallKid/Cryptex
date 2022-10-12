@@ -128,7 +128,7 @@ var runCmd = &cobra.Command{
 		if flag == true {
 			parser(mine)
 		} else {
-			fmt.Println(Red+"Unsupported Coin : use 'cryptex list' to list all supported coins"+Reset)
+			fmt.Println(Red+"Unsupported Coin : use cryptex list mentioned to access coin value"+Reset)
 		}
 		
 	},
